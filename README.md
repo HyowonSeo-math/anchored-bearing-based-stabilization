@@ -50,10 +50,6 @@ All random initial states use NumPy seed `2026`.
 
 The `--supplementary` flag also generates the initial-state-scale comparison and further diagnostic figures.
 
-## Manuscript source
-
-- `subsection_C_gain_sensitivity.tex`: replacement for Section VI-C.
-- `subsection_A_collision_replacement.tex`: replacement for Section VI-A's collision paragraphs and figure.
 
 ## Numerical methods
 
